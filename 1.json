@@ -1,0 +1,58 @@
+{
+    "state": 0,
+    "version": 2,
+    "payloadVersion": 2,
+    "data": {
+      "products": [
+        {
+          "time1": 8,
+          "time2": 93,
+          "wh": 218841,
+          "dtype": 1,
+          "dist": 296,
+          "id": 168636281,
+          "root": 154503270,
+          "kindId": 0,
+          "brand": "Xiaomi",
+          "brandId": 19467,
+          "siteBrandId": 0,
+          "colors": [
+            {
+              "name": "черный",
+              "id": 0
+            }
+          ],
+          "subjectId": 515,
+          "subjectParentId": 6258,
+          "name": "Смартфон Redmi A2+ 3 64 ГБ",
+          "supplier": "ЗЕОН",
+          "supplierId": 796975,
+          "supplierRating": 4.8,
+          "supplierFlags": 0,
+          "pics": 9,
+          "rating": 5,
+          "reviewRating": 4.8,
+          "feedbacks": 4684,
+          "volume": 14,
+          "viewFlags": 8,
+          "sizes": [
+            {
+              "name": "",
+              "origName": "0",
+              "rank": 0,
+              "optionId": 280284697,
+              "wh": 218841,
+              "dtype": 1,
+              "price": {
+                "basic": 691000,
+                "product": 492900,
+                "total": 492900,
+                "logistics": 0,
+                "return": 0
+              },
+              "saleConditions": 898,
+              "payload": "fxRRded+Xj1nNz8BQoEJRWkShxPrhEdbyzk3Tr9H7mrQel4jgXIYShFPKBlxWw4E3B6HkL/OecZISiYR"
+            }
+          ],
+          "log": {}
+        },

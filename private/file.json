@@ -1,0 +1,902 @@
+[
+  {
+    "brand": "oppo",
+    "name": "Смартфон A5 8 256 Ростест (EAC), аквамарин",
+    "colors.0.name": "голубой",
+    "feedbacks": 268,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 979800,
+    "sizes.0.price.basic": 1699900
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон C75 8GB 128GB Black",
+    "colors.0.name": "черный",
+    "feedbacks": 136,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 1057900,
+    "sizes.0.price.basic": 1399000
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон REDMI A5 4 128Gb LTE DS midnight black",
+    "colors.0.name": "черный",
+    "feedbacks": 65,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 812200,
+    "sizes.0.price.basic": 1141400
+  },
+  {
+    "brand": "honor",
+    "name": "Смартфон X6c 6+256ГБ, Черный (5109BSWA)",
+    "colors.0.name": "черный",
+    "feedbacks": 5,
+    "reviewRating": 5,
+    "sizes.0.price.total": 872900,
+    "sizes.0.price.basic": 1226700
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон C75 8GB 128GB Gold",
+    "colors.0.name": "желтый",
+    "feedbacks": 45,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 1057900,
+    "sizes.0.price.basic": 1399000
+  },
+  {
+    "brand": "Infinix",
+    "name": "Смартфон HOT 50 Pro X6881 128+8 Titanium Grey",
+    "colors.0.name": "серый",
+    "feedbacks": 178,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 1034700,
+    "sizes.0.price.basic": 1499000
+  },
+  {
+    "brand": "Samsung",
+    "name": "Смартфон Galaxy A16 4 128Gb LTE Dual sim light green (ru)",
+    "colors.0.name": "зеленый",
+    "feedbacks": 10,
+    "reviewRating": 5,
+    "sizes.0.price.total": 1038200,
+    "sizes.0.price.basic": 1459000
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон C75 8GB 128GB Red",
+    "colors.0.name": "красный",
+    "feedbacks": 63,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 1057900,
+    "sizes.0.price.basic": 1399000
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон REDMI A5 3 64Gb LTE DS midnight black",
+    "colors.0.name": "черный",
+    "feedbacks": 77,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 687300,
+    "sizes.0.price.basic": 927100
+  },
+  {
+    "brand": "INOI",
+    "name": "Смартфон андроид A35 4 128 ГБ Ростест (EAC), синий",
+    "colors.0.name": "синий",
+    "feedbacks": 21,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 442400,
+    "sizes.0.price.basic": 650000
+  },
+  {
+    "brand": "VIVO",
+    "name": "Смартфон Y04 4+128 Гб, малахитовый черный",
+    "colors.0.name": "зеленый",
+    "feedbacks": 115,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 846800,
+    "sizes.0.price.basic": 1399900
+  },
+  {
+    "brand": "iQOO",
+    "name": "Смартфон Z10 Lite 8 + 128, Ростест (EAC)",
+    "colors.0.name": "зеленый",
+    "feedbacks": 50,
+    "reviewRating": 5,
+    "sizes.0.price.total": 1138500,
+    "sizes.0.price.basic": 1599900
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон REDMI A5 3 64Gb LTE DS ocean blue",
+    "colors.0.name": "голубой",
+    "feedbacks": 37,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 687300,
+    "sizes.0.price.basic": 927100
+  },
+  {
+    "brand": "VIVO",
+    "name": "Смартфон Y04 4+128 Гб, Титановое Сияние",
+    "colors.0.name": "серый",
+    "feedbacks": 109,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 846800,
+    "sizes.0.price.basic": 1399900
+  },
+  {
+    "brand": "TECNO",
+    "name": "Смартфон SPARK GO 2 KM4 4 128 ГБ черный",
+    "colors.0.name": "черный",
+    "feedbacks": 207,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 703600,
+    "sizes.0.price.basic": 949000
+  },
+  {
+    "brand": "POCO",
+    "name": "Смартфон M6 (6+128GB), черный",
+    "colors.0.name": "черный",
+    "feedbacks": 29,
+    "reviewRating": 5,
+    "sizes.0.price.total": 1120400,
+    "sizes.0.price.basic": 1599000
+  },
+  {
+    "brand": "POCO",
+    "name": "Смартфон M6 (6+128GB), серебристый",
+    "colors.0.name": "серый",
+    "feedbacks": 15,
+    "reviewRating": 5,
+    "sizes.0.price.total": 1035500,
+    "sizes.0.price.basic": 1599000
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60X 3 64Gb LTE DS marble black",
+    "colors.0.name": "черный",
+    "feedbacks": 33,
+    "reviewRating": 4.7,
+    "sizes.0.price.total": 634400,
+    "sizes.0.price.basic": 855700
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон C75 8+128 Gold",
+    "colors.0.name": "желтый",
+    "feedbacks": 0,
+    "reviewRating": 0,
+    "sizes.0.price.total": 1552200,
+    "sizes.0.price.basic": 1893000
+  },
+  {
+    "brand": "Samsung",
+    "name": "Смартфон Galaxy A16 (4+128GB) Black, Черный",
+    "colors.0.name": "черный",
+    "feedbacks": 417,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 950100,
+    "sizes.0.price.basic": 1589400
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60X 4GB 128GB Black",
+    "colors.0.name": "черный",
+    "feedbacks": 113,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 592200,
+    "sizes.0.price.basic": 739000
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A16 4+128GB",
+    "colors.0.name": "серый",
+    "feedbacks": 66,
+    "reviewRating": 4.7,
+    "sizes.0.price.total": 1099500,
+    "sizes.0.price.basic": 2199000
+  },
+  {
+    "brand": "oppo",
+    "name": "Смартфон A5 8 256 Ростест (EAC), жемчуг",
+    "colors.0.name": "бежевый",
+    "feedbacks": 190,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 979800,
+    "sizes.0.price.basic": 1699900
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60 6 128GB Голубой",
+    "colors.0.name": "голубой",
+    "feedbacks": 5,
+    "reviewRating": 5,
+    "sizes.0.price.total": 728300,
+    "sizes.0.price.basic": 1176400
+  },
+  {
+    "brand": "Redmi",
+    "name": "Смартфон редми A5 4GB 128GB",
+    "colors.0.name": "желтый",
+    "feedbacks": 11,
+    "reviewRating": 5,
+    "sizes.0.price.total": 736100,
+    "sizes.0.price.basic": 1601300
+  },
+  {
+    "brand": "TECNO",
+    "name": "Смартфон техно Spark Go 1 4GB 128GB",
+    "colors.0.name": "черный",
+    "feedbacks": 134,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 615400,
+    "sizes.0.price.basic": 1896500
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60x 3 64GB Зеленый",
+    "colors.0.name": "зеленый",
+    "feedbacks": 11,
+    "reviewRating": 5,
+    "sizes.0.price.total": 512500,
+    "sizes.0.price.basic": 785600
+  },
+  {
+    "brand": "Infinix",
+    "name": "Смартфон Smart 10 4 128 ГБ черный",
+    "colors.0.name": "черный",
+    "feedbacks": 18,
+    "reviewRating": 5,
+    "sizes.0.price.total": 760700,
+    "sizes.0.price.basic": 1069000
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон REDMI A5 3 64Gb Черный RU",
+    "colors.0.name": "черный",
+    "feedbacks": 1,
+    "reviewRating": 5,
+    "sizes.0.price.total": 614500,
+    "sizes.0.price.basic": 828800
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60X 3GB 64GB Black",
+    "colors.0.name": "черный",
+    "feedbacks": 44,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 518400,
+    "sizes.0.price.basic": 615000
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон REDMI A5 3 64Gb Черный RU",
+    "colors.0.name": "черный",
+    "feedbacks": 7,
+    "reviewRating": 5,
+    "sizes.0.price.total": 614500,
+    "sizes.0.price.basic": 828800
+  },
+  {
+    "brand": "INOI",
+    "name": "Смартфон андроид A54 4 128 ГБ Ростест (ЕАС), черный",
+    "colors.0.name": "черный",
+    "feedbacks": 14,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 498600,
+    "sizes.0.price.basic": 630000
+  },
+  {
+    "brand": "",
+    "name": "Смартфоны S25 серый 8 256GB",
+    "colors.0.name": "желтый",
+    "feedbacks": 1,
+    "reviewRating": 5,
+    "sizes.0.price.total": 733100,
+    "sizes.0.price.basic": 928100
+  },
+  {
+    "brand": "TECNO",
+    "name": "Смартфон SPARK 30 256+8GB White",
+    "colors.0.name": "белый",
+    "feedbacks": 395,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 927500,
+    "sizes.0.price.basic": 1299000
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон REDMI A5 4 128Gb Черный RU",
+    "colors.0.name": "черный",
+    "feedbacks": 20,
+    "reviewRating": 5,
+    "sizes.0.price.total": 774800,
+    "sizes.0.price.basic": 1088800
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон Redmi 14C 8 256GB Sage Green",
+    "colors.0.name": "зеленый",
+    "feedbacks": 80,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 810500,
+    "sizes.0.price.basic": 1139000
+  },
+  {
+    "brand": "Huawei",
+    "name": "Смартфон Nova Y72S 8 128Gb LTE DS black",
+    "colors.0.name": "черный",
+    "feedbacks": 230,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 761900,
+    "sizes.0.price.basic": 962700
+  },
+  {
+    "brand": "INOI",
+    "name": "Смартфон андроид A54 4 256 ГБ Ростест (ЕАС), черный",
+    "colors.0.name": "черный",
+    "feedbacks": 37,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 526400,
+    "sizes.0.price.basic": 710000
+  },
+  {
+    "brand": "oppo",
+    "name": "Смартфон A5i Pro 8 128 Ростест (EAC), аметист",
+    "colors.0.name": "фиолетовый",
+    "feedbacks": 111,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 945000,
+    "sizes.0.price.basic": 1599900
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60 6 128 ГБ, RMX3933, Полуночный черный",
+    "colors.0.name": "черный",
+    "feedbacks": 107,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 910800,
+    "sizes.0.price.basic": 1279900
+  },
+  {
+    "brand": "Infinix",
+    "name": "Смартфон SMART 10 Ростест (ЕАС) 4 128GB, синий",
+    "colors.0.name": "синий",
+    "feedbacks": 3,
+    "reviewRating": 5,
+    "sizes.0.price.total": 861500,
+    "sizes.0.price.basic": 1210600
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон Redmi 13 Sandy Gold 6GB RAM 128GB ROM",
+    "colors.0.name": "коричневый",
+    "feedbacks": 19,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 926100,
+    "sizes.0.price.basic": 2099000
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60x 3 64GB Черный",
+    "colors.0.name": "черный",
+    "feedbacks": 12,
+    "reviewRating": 5,
+    "sizes.0.price.total": 518000,
+    "sizes.0.price.basic": 751300
+  },
+  {
+    "brand": "Huawei",
+    "name": "Смартфон NOVA Y73 8 256GB, MGA-LX3, черный",
+    "colors.0.name": "черный",
+    "feedbacks": 37,
+    "reviewRating": 5,
+    "sizes.0.price.total": 1067400,
+    "sizes.0.price.basic": 2142800
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60x 3 64GB Зеленый",
+    "colors.0.name": "зеленый",
+    "feedbacks": 1,
+    "reviewRating": 5,
+    "sizes.0.price.total": 511500,
+    "sizes.0.price.basic": 775200
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон Redmi A5 4 128 ГБ зеленый",
+    "colors.0.name": "зеленый",
+    "feedbacks": 9,
+    "reviewRating": 4.6,
+    "sizes.0.price.total": 740700,
+    "sizes.0.price.basic": 999000
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон C71 6 128GB Белый",
+    "colors.0.name": "белый",
+    "feedbacks": 2,
+    "reviewRating": 5,
+    "sizes.0.price.total": 894400,
+    "sizes.0.price.basic": 1444600
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон Redmi 9C NFC Global 3 64 ГБ Оранжевый",
+    "colors.0.name": "оранжевый",
+    "feedbacks": 30,
+    "reviewRating": 4.5,
+    "sizes.0.price.total": 563400,
+    "sizes.0.price.basic": 1999900
+  },
+  {
+    "brand": "M-Horse S24 Ultra",
+    "name": "Смартфон S24 Ultra 8GB+128GB 5000mAh Серебряный",
+    "colors.0.name": "серый",
+    "feedbacks": 30,
+    "reviewRating": 4.7,
+    "sizes.0.price.total": 548500,
+    "sizes.0.price.basic": 986500
+  },
+  {
+    "brand": "Samsung",
+    "name": "Смартфон Galaxy A16 4 128Gb LTE Dual sim black (ru)",
+    "colors.0.name": "черный",
+    "feedbacks": 7,
+    "reviewRating": 5,
+    "sizes.0.price.total": 948600,
+    "sizes.0.price.basic": 1333000
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60x 4 128 ГБ Чёрный",
+    "colors.0.name": "черный",
+    "feedbacks": 139,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 740300,
+    "sizes.0.price.basic": 1040300
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон REDMI A5 4 128Gb Золотистый RU",
+    "colors.0.name": "желтый",
+    "feedbacks": 6,
+    "reviewRating": 4.7,
+    "sizes.0.price.total": 774800,
+    "sizes.0.price.basic": 1088800
+  },
+  {
+    "brand": "",
+    "name": "Смартфон M-Horse C68 8 256Гб NFC золотистый",
+    "colors.0.name": "желтый",
+    "feedbacks": 8,
+    "reviewRating": 4.5,
+    "sizes.0.price.total": 638300,
+    "sizes.0.price.basic": 1345300
+  },
+  {
+    "brand": "",
+    "name": "Смартфон M-Horse S22 4 64 Гб фиолетовый",
+    "colors.0.name": "фиолетовый",
+    "feedbacks": 38,
+    "reviewRating": 4.6,
+    "sizes.0.price.total": 425500,
+    "sizes.0.price.basic": 700000
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон C63 8 256 ГБ RMX3939, Кожаный синий",
+    "colors.0.name": "синий",
+    "feedbacks": 375,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 1142300,
+    "sizes.0.price.basic": 1499900
+  },
+  {
+    "brand": "",
+    "name": "Смартфон андроид M-Horse P70 3 64 GB серебристый",
+    "colors.0.name": "серый",
+    "feedbacks": 37,
+    "reviewRating": 4.4,
+    "sizes.0.price.total": 481900,
+    "sizes.0.price.basic": 2500000
+  },
+  {
+    "brand": "M-HORSE",
+    "name": "Смартфон мобильный android A14 8GB+128GB 5000mAh титан",
+    "colors.0.name": "серый",
+    "feedbacks": 142,
+    "reviewRating": 4.7,
+    "sizes.0.price.total": 565500,
+    "sizes.0.price.basic": 978900
+  },
+  {
+    "brand": "TECNO",
+    "name": "Смартфон SPARK GO 2 KM4 3 64 ГБ черный",
+    "colors.0.name": "черный",
+    "feedbacks": 141,
+    "reviewRating": 5,
+    "sizes.0.price.total": 592700,
+    "sizes.0.price.basic": 749000
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон Redmi 14C 8 256GB Dreamy Purple",
+    "colors.0.name": "фиолетовый",
+    "feedbacks": 61,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 810500,
+    "sizes.0.price.basic": 1139000
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон Redmi A5 4 128 ГБ черный",
+    "colors.0.name": "черный",
+    "feedbacks": 24,
+    "reviewRating": 5,
+    "sizes.0.price.total": 740700,
+    "sizes.0.price.basic": 999000
+  },
+  {
+    "brand": "TECNO",
+    "name": "Смартфон SPARK GO 2 KM4 3 64 ГБ серый",
+    "colors.0.name": "серый",
+    "feedbacks": 48,
+    "reviewRating": 5,
+    "sizes.0.price.total": 555300,
+    "sizes.0.price.basic": 749000
+  },
+  {
+    "brand": "iQOO",
+    "name": "Смартфон Z10 Lite 8 + 256, Ростест (EAC)",
+    "colors.0.name": "зеленый",
+    "feedbacks": 78,
+    "reviewRating": 5,
+    "sizes.0.price.total": 1245300,
+    "sizes.0.price.basic": 1749900
+  },
+  {
+    "brand": "M-HORSE",
+    "name": "Умный смартфон P70 3 64 Гб",
+    "colors.0.name": "серый",
+    "feedbacks": 0,
+    "reviewRating": 0,
+    "sizes.0.price.total": 554900,
+    "sizes.0.price.basic": 2581100
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон Redmi 14C 4 128GB Dreamy Purple",
+    "colors.0.name": "фиолетовый",
+    "feedbacks": 41,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 711000,
+    "sizes.0.price.basic": 959000
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон Redmi A5 3 64 ГБ черный",
+    "colors.0.name": "черный",
+    "feedbacks": 23,
+    "reviewRating": 4.7,
+    "sizes.0.price.total": 607200,
+    "sizes.0.price.basic": 819000
+  },
+  {
+    "brand": "Realme",
+    "name": "C71 6+128GB",
+    "colors.0.name": "зеленый",
+    "feedbacks": 258,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 1099000,
+    "sizes.0.price.basic": 1570100
+  },
+  {
+    "brand": "Up-summer",
+    "name": "Смартфон i16 16 512 ГБ, Dual nano SIM",
+    "colors.0.name": "белый",
+    "feedbacks": 4,
+    "reviewRating": 5,
+    "sizes.0.price.total": 580700,
+    "sizes.0.price.basic": 1161500
+  },
+  {
+    "brand": "Realme",
+    "name": "C61 8+256GB",
+    "colors.0.name": "зеленый",
+    "feedbacks": 475,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 987400,
+    "sizes.0.price.basic": 1899000
+  },
+  {
+    "brand": "",
+    "name": "Смартфон Xiaoml 15A Подарок Global 12 512 ГБ",
+    "colors.0.name": "желтый",
+    "feedbacks": 0,
+    "reviewRating": 0,
+    "sizes.0.price.total": 469900,
+    "sizes.0.price.basic": 1044200
+  },
+  {
+    "brand": "Realme",
+    "name": "C71 6+128GB",
+    "colors.0.name": "белый",
+    "feedbacks": 84,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 1099000,
+    "sizes.0.price.basic": 1570100
+  },
+  {
+    "brand": "Samsung",
+    "name": "Смартфон Galaxy A16 (4+128GB) Gray, Серебряный",
+    "colors.0.name": "серый",
+    "feedbacks": 402,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 950100,
+    "sizes.0.price.basic": 1589400
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон Redmi 13 Sandy Gold 8GB RAM 256GB ROM",
+    "colors.0.name": "коричневый",
+    "feedbacks": 72,
+    "reviewRating": 4.6,
+    "sizes.0.price.total": 1075500,
+    "sizes.0.price.basic": 2399000
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A06 6+128GB",
+    "colors.0.name": "черный",
+    "feedbacks": 43,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 887600,
+    "sizes.0.price.basic": 2399000
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A16 4+128GB",
+    "colors.0.name": "серый",
+    "feedbacks": 47,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 1099500,
+    "sizes.0.price.basic": 2199000
+  },
+  {
+    "brand": "",
+    "name": "Смартфон S25 ULTRA 8 256GB",
+    "colors.0.name": "серый",
+    "feedbacks": 11,
+    "reviewRating": 5,
+    "sizes.0.price.total": 814300,
+    "sizes.0.price.basic": 1986200
+  },
+  {
+    "brand": "Huawei",
+    "name": "Смартфон nova 13i 8 ГБ + 128 ГБ голубой",
+    "colors.0.name": "голубой",
+    "feedbacks": 14,
+    "reviewRating": 5,
+    "sizes.0.price.total": 1029200,
+    "sizes.0.price.basic": 2329900
+  },
+  {
+    "brand": "Redmi",
+    "name": "Смартфон редми A5 4GB 128GB",
+    "colors.0.name": "черный",
+    "feedbacks": 10,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 736100,
+    "sizes.0.price.basic": 1601300
+  },
+  {
+    "brand": "",
+    "name": "Смартфон Note 14 12 512",
+    "colors.0.name": "белый",
+    "feedbacks": 1,
+    "reviewRating": 5,
+    "sizes.0.price.total": 559700,
+    "sizes.0.price.basic": 1006500
+  },
+  {
+    "brand": "TECNO",
+    "name": "Смартфон SPARK 30C 128+6GB Orbit White",
+    "colors.0.name": "белый",
+    "feedbacks": 69,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 774800,
+    "sizes.0.price.basic": 999000
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A06 4+128GB",
+    "colors.0.name": "желтый",
+    "feedbacks": 4,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 881500,
+    "sizes.0.price.basic": 2099000
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A06 4+128GB",
+    "colors.0.name": "черный",
+    "feedbacks": 21,
+    "reviewRating": 4.7,
+    "sizes.0.price.total": 881500,
+    "sizes.0.price.basic": 2099000
+  },
+  {
+    "brand": "Samsung",
+    "name": "Смартфон Galaxy A16 4 128GB",
+    "colors.0.name": "черный",
+    "feedbacks": 4,
+    "reviewRating": 5,
+    "sizes.0.price.total": 1103000,
+    "sizes.0.price.basic": 1550000
+  },
+  {
+    "brand": "Blackview",
+    "name": "Смартфон BV6200 Plus 8 256GB, Оранжевый",
+    "colors.0.name": "оранжевый",
+    "feedbacks": 52,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 1142400,
+    "sizes.0.price.basic": 1500000
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60x 3 64Gb Black, Ростест",
+    "colors.0.name": "черный",
+    "feedbacks": 10,
+    "reviewRating": 4.6,
+    "sizes.0.price.total": 776100,
+    "sizes.0.price.basic": 1346500
+  },
+  {
+    "brand": "TECNO",
+    "name": "Смартфон SPARK 40C 128+8GB Ink Black",
+    "colors.0.name": "черный",
+    "feedbacks": 114,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 976300,
+    "sizes.0.price.basic": 1299000
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Смартфон Redmi 13 8GB+256GB Gold + SIM-карта Мегафон",
+    "colors.0.name": "желтый",
+    "feedbacks": 7,
+    "reviewRating": 5,
+    "sizes.0.price.total": 1208500,
+    "sizes.0.price.basic": 1421800
+  },
+  {
+    "brand": "Blackview",
+    "name": "Смартфон BV6200 Plus 8 256GB, Черный",
+    "colors.0.name": "черный",
+    "feedbacks": 54,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 1060300,
+    "sizes.0.price.basic": 1490000
+  },
+  {
+    "brand": "Infinix",
+    "name": "Смартфон HOT 60i Ростест (EAC) 4 128GB, серебристый",
+    "colors.0.name": "серый",
+    "feedbacks": 4,
+    "reviewRating": 5,
+    "sizes.0.price.total": 958300,
+    "sizes.0.price.basic": 1479900
+  },
+  {
+    "brand": "TECNO",
+    "name": "SPARK 30 Pro 8+128GB",
+    "colors.0.name": "черный",
+    "feedbacks": 485,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 1297400,
+    "sizes.0.price.basic": 2199000
+  },
+  {
+    "brand": "TAPLET",
+    "name": "Смартфон S25 Ultra 16+512 ГБ, русская версия",
+    "colors.0.name": "серый",
+    "feedbacks": 30,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 926500,
+    "sizes.0.price.basic": 2154700
+  },
+  {
+    "brand": "Realme",
+    "name": "Note 60X 4+128GB",
+    "colors.0.name": "зеленый",
+    "feedbacks": 1334,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 749800,
+    "sizes.0.price.basic": 1271000
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60 6 128 ГБ, RMX3933, Небесный голубой",
+    "colors.0.name": "голубой",
+    "feedbacks": 72,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 910800,
+    "sizes.0.price.basic": 1279900
+  },
+  {
+    "brand": "Realme",
+    "name": "Смартфон Note 60 6 128GB Голубой",
+    "colors.0.name": "голубой",
+    "feedbacks": 22,
+    "reviewRating": 5,
+    "sizes.0.price.total": 888600,
+    "sizes.0.price.basic": 1248700
+  },
+  {
+    "brand": "Delta Moon",
+    "name": "Смартфон A2 2 128 GB черный",
+    "colors.0.name": "черный",
+    "feedbacks": 149,
+    "reviewRating": 4.7,
+    "sizes.0.price.total": 504100,
+    "sizes.0.price.basic": 13600000
+  },
+  {
+    "brand": "honor",
+    "name": "Смартфон X7c 6 128 ГБ зеленый",
+    "colors.0.name": "зеленый",
+    "feedbacks": 2,
+    "reviewRating": 5,
+    "sizes.0.price.total": 948900,
+    "sizes.0.price.basic": 2260000
+  },
+  {
+    "brand": "INOI",
+    "name": "Смартфон андроид A54 4 256 ГБ Ростест (ЕАС), фиолетовый",
+    "colors.0.name": "фиолетовый",
+    "feedbacks": 27,
+    "reviewRating": 4.8,
+    "sizes.0.price.total": 489100,
+    "sizes.0.price.basic": 694500
+  },
+  {
+    "brand": "TECNO",
+    "name": "Смартфон SPARK 40C 128+8GB Titanium Grey",
+    "colors.0.name": "серый",
+    "feedbacks": 69,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 976300,
+    "sizes.0.price.basic": 1299000
+  },
+  {
+    "brand": "M-HORSE",
+    "name": "Смартфон M-house A14 8GB+128GB 5000mAh Золотой",
+    "colors.0.name": "желтый",
+    "feedbacks": 29,
+    "reviewRating": 4.6,
+    "sizes.0.price.total": 618300,
+    "sizes.0.price.basic": 1208600
+  },
+  {
+    "brand": "TECNO",
+    "name": "Смартфон SPARK 40C 128+8GB Veil White",
+    "colors.0.name": "белый",
+    "feedbacks": 62,
+    "reviewRating": 4.9,
+    "sizes.0.price.total": 976300,
+    "sizes.0.price.basic": 1299000
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A06 4+64GB",
+    "colors.0.name": "черный",
+    "feedbacks": 26,
+    "reviewRating": 4.5,
+    "sizes.0.price.total": 797600,
+    "sizes.0.price.basic": 2099000
+  }
+]
