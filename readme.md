@@ -12,3 +12,8 @@
 npm install
 node app.js
 ```
+
+## Tecnologys
+* Bootstrap 5.X
+* NodeJs 18
+* Js
